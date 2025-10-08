@@ -1,6 +1,3 @@
-Absolutely! Here's your updated **README.md** with your GitHub username (`Pravallikachekuri`) properly inserted:
-
-````markdown
 # 📄 Resume_JD_Skill_Matcher + LLM Judge + ✉️ Email Notifier
 
 A powerful Streamlit web app that automates resume screening by matching resumes against job descriptions using advanced NLP and LLM models. It scores, judges, and categorizes candidates, then notifies them via email — streamlining recruitment workflows with AI!
@@ -113,6 +110,4 @@ streamlit run app.py
 ## License
 
 MIT License © Pravallikachekuri
-
-```
 
