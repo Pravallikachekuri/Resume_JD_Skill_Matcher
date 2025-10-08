@@ -89,11 +89,14 @@ streamlit run app.py
 ## Project Structure
 
 ```
-.
-├── app.py               # Main Streamlit app
-├── requirements.txt     # Python dependencies
-├── README.md            # This file
-└── .env.example         # Example environment variables file
+.│
+├── .env                   # Environment variables file
+├── .gitignore             # Git ignore rules
+├── LICENSE                # License file
+├── README.md              # Project readme
+├── app.py                 # Main application script
+├── env activate comd.txt  # Possibly environment activation commands or notes
+├── requirements.txt       # Python dependencies list
 ```
 
 ---
